@@ -1,8 +1,5 @@
+<img width="2744" height="1734" alt="Pipeline" src="https://github.com/user-attachments/assets/51a1bbda-1697-4da7-89e4-c0ff966f7bda" />
 # LongNonCoder
-A Nextflow pipeline for long non-coding RNAs discovery from long-read RNA-seq
+A Nextflow pipeline for isoform-level lncRNA discovery from long-reads
 
-![Pipeline (1)](https://github.com/user-attachments/assets/e9ef0fc3-7d0d-4c13-ae0e-b50e597b42c3)
-
-
-## Credits
-This pipeline was originally written by [Bárbara Borges](https://github.com/borgessbarbara) and [Lucas Freitas](https://github.com/lfreitasl).
+<img width="4227" height="2401" alt="LongNonCoder drawio" src="https://github.com/user-attachments/assets/9a733773-f97d-4897-802a-72171e7b0358" />
